@@ -1,12 +1,12 @@
 {
-  "bg": "https://images3.alphacoders.com/779/thumb-1920-779565.jpg",
+  "bg": "https://wallpapercave.com/wp/wp2789597.jpg",
   "title": "Quiz Smallville",
   "description": "Perguntas relacionadas a série Smallville.",
   "questions": [
     {
       "image": "https://media.giphy.com/media/3oz8xwLTh4RyCwsp0Y/giphy.gif",
       "title": "Quantos anos Clark tinha na primeira temporada?",
-      "description": "Jovem Clark",
+      "description": "Dificuldade: Fácil",
       "answer": 1,
       "alternatives": [
         "15",
@@ -16,15 +16,13 @@
       ]
     },
     {
-      "image": "https://static.wikia.nocookie.net/smallville-cw/images/d/db/6Promo9.png/revision/latest?cb=20160829000101",
-      "title": "Qual o nome deste personagem?",
-      "description": "Personagem Importante",
-      "answer": 2,
+      "image": "https://media.giphy.com/media/tyttpH6f8NYXrZl9LHO/giphy.gif",
+      "title": "Como os pais de Lana morreram?",
+      "description": "Dificuldade: Fácil",
+      "answer": 0,
       "alternatives": [
-         "Jor-el",
-         "Lex Luthor",
-         "Lionel Luthor",
-         "Jonathan Kent"
+         "Chuva de Meteoros",
+         "Acidente de Carro"
       ]
     }
   ],
@@ -34,7 +32,7 @@
   "theme": {
     "colors": {
       "primary": "#aa2e25",
-      "secondary": "#29b6f6",
+      "secondary": "#008000",
       "mainBg": "#181818",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
