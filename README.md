@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="aluraquiz-smallville.vercel.app/">
+  <a href="https://aluraquiz-smallville.vercel.app/">
     <img 
          src="https://i.imgur.com/2jKihTJ.jpg" 
          alt="Quiz Smallville" 
