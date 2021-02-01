@@ -12,22 +12,79 @@
         "15",
         "14",
         "16",
-        "18"
+        "18",
+        "20"
       ]
     },
     {
       "image": "https://media.giphy.com/media/tyttpH6f8NYXrZl9LHO/giphy.gif",
       "title": "Como os pais de Lana morreram?",
-      "description": "Dificuldade: Fácil",
+      "description": "Dificuldade: Moderado",
       "answer": 0,
       "alternatives": [
          "Chuva de Meteoros",
-         "Acidente de Carro"
+         "Acidente de Carro",
+         "COVID-19",
+         "Assassinato",
+         "Câncer"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/vwIxc6mw1l6sU/giphy.gif",
+      "title": "Qual o sobrenome de Clark?",
+      "description": "Dificuldade: Fácil",
+      "answer": 4,
+      "alternatives": [
+         "Lang",
+         "Stark",
+         "Magalhães",
+         "Luthor",
+         "Kent"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l3vR8boh8a21XVoT6/giphy.gif",
+      "title": "Qual a cor da kryptonita que enfraquece Clark?",
+      "description": "Dificuldade: Fácil",
+      "answer": 3,
+      "alternatives": [
+         "Azul",
+         "Vermelho",
+         "Preto",
+         "Verde",
+         "Amerelo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oz8xGd3jnnlXVySCk/giphy.gif",
+      "title": "Qual a quantidade de temporadas da série Smallville?",
+      "description": "Dificuldade: Moderada",
+      "answer": 0,
+      "alternatives": [
+         "10",
+         "6",
+         "3",
+         "12",
+         "8"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l3vRglDoLv6Aaj75C/giphy.gif",
+      "title": "Em que ano cai a chuva de meteoros?",
+      "description": "Dificuldade: Difícil",
+      "answer": 3,
+      "alternatives": [
+         "1992",
+         "1980",
+         "1988",
+         "1989",
+         "1990"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-coffee.leonardot07.vercel.app/",
+    "https://aluraquiz-sonic.marmitoth.vercel.app/"
   ],
   "theme": {
     "colors": {
@@ -35,8 +92,8 @@
       "secondary": "#008000",
       "mainBg": "#181818",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
-      "success": "#4CAF50"
+      "wrong": "#FF0000",
+      "success": "#008000"
     },
     "borderRadius": "4px"
   }
